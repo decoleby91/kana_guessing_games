@@ -2,8 +2,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #eec0c6;
-  background-image: linear-gradient(315deg, #e0122e 0%, #f7f0f0 74%);
+    background-color: #141414;
+  background-image: linear-gradient(315deg, #0e0d0d 0%, #0e0d0d 74%);
+  color:antiquewhite;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
       'Lucida Sans', Arial, sans-serif;
   }
