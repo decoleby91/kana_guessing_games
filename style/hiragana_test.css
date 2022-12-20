@@ -4,15 +4,15 @@ body {
     align-items: center;
     background-color: #141414;
   background-image: linear-gradient(315deg, #0e0d0d 0%, #0e0d0d 74%);
-  color:antiquewhite;
+  color:black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
       'Lucida Sans', Arial, sans-serif;
   }
 
   main {
     background-color:#f8f4f4;
-    background-image: linear-gradient(315deg, #6b0f1a 0%, #3133a0 74%);
+    background-image: linear-gradient(315deg, #f8f3f4 0%, #eeeef3 74%);
 
     border-radius: 5px;
-    color: white;
+    color: black;
   }
