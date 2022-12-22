@@ -45,3 +45,11 @@ body {
     box-shadow: 0 5px rgb(188, 155, 219);
     transform: translateY(4px);
   }
+
+  #question {
+    margin: 0 0 2rem 0;
+  }
+  h1 {
+    text-align: center;
+    z-index: -1;
+  }
