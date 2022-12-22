@@ -36,3 +36,11 @@ const quizData = [
       correct: 'b',
     },
   ];
+
+  /*Grabing all the elements */
+const question = document.getElementById('question');
+const a = document.getElementById('a+');
+const b = document.getElementById('b+');
+const c = document.getElementById('c+');
+const btn = document.getElementById('submit');
+const all_answer = document.querySelectorAll('.answer');
